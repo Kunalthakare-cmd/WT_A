@@ -109,20 +109,20 @@ php -S localhost:8020
 
 
 
-### WT Problems
+## WT Problems
 
-Design and develop a responsive web page for your CV using multiple column 
+# 1. Design and develop a responsive web page for your CV using multiple column 
 layouts having video background. You can make the use of bootstrap as well 
 as jQuery.
 
-2. Design and develop a website using toggleable or dynamic tabs or pills with 
+# 2. Design and develop a website using toggleable or dynamic tabs or pills with 
 bootstrap and JQuery to show the relevance of SDP, EDI, DT and Course 
 projects in VIT.
 
-3. Develop a website using JavaScript to implement array operations such as 
+# 3. Develop a website using JavaScript to implement array operations such as 
 reverse the elements of a given array / sorting methods/ searching methods.
 
-4. process user input and manage sessions.
+# 4. process user input and manage sessions.
 Task
 1. Design HTML form with Name, Email, Password.
 2. Process form using GET and POST methods.
@@ -130,7 +130,7 @@ Task
 4. Create cookie to store username.
 5. Implement session-based login example.
 
-5. perform database operations using PHP and MySQL.
+#5. perform database operations using PHP and MySQL.
 Tasks:
 1. Create database 'student_db'.
 2. Create table 'students(id, name, email)'.
@@ -138,12 +138,12 @@ Tasks:
 4. Insert records into table.
 5. Display, update, and delete records.
 
-6. Design and develop a responsive website to calculate Electricity bill 
+# 6. Design and develop a responsive website to calculate Electricity bill 
 using PHP. Condition for first 50 units – Rs. 3.50/unit, for next 100 units – Rs. 
 4.00/unit, for next 100 units – Rs. 5.20/unit and for units above 250 – Rs. 
 6.50/unit.
 
-7. Design and develop a responsive website to prepare one semester result of 
+# 7. Design and develop a responsive website to prepare one semester result of 
 VIT students using REACT, PHP and MySQL. Take any four subjects with 
 MSE Marks (30%) ESE Marks (70%).
  Task
@@ -155,7 +155,7 @@ the data to the Student component are: Student Name,Course,Marks)
 4. Update UI dynamically based on state changes.(Display Pass/Fail status 
 dynamically)
 
-8. Develop a React-based Student Feedback Form that allows users to submit 
+# 8. Develop a React-based Student Feedback Form that allows users to submit 
 feedback about a course or session.
 Tasks:
 1. Create a Feedback Form with Validation
@@ -164,7 +164,7 @@ Tasks:
 4. Render list items using Keys.
 5. Display Submitted Feedback
 
-9. Develop a Spring Boot-based Product Inventory Management System that 
+# 9. Develop a Spring Boot-based Product Inventory Management System that 
 stores and manages product details using MongoDB as the database.
 Tasks:
 1. Configure MongoDB connection.
@@ -176,7 +176,7 @@ Tasks:
 7. Test the Application(Use Postman)
 
 
-10. Develop a Student Registration System where students can submit their details 
+# 10. Develop a Student Registration System where students can submit their details 
 through a Node.js application and the data will be stored in a database. The system 
 should also allow viewing the list of registered students.
 Tasks to Perform:
@@ -187,61 +187,62 @@ Tasks to Perform:
 5. Display the student list in the browser using an API endpoint.
 
 
-
-11. Design and develop a PHP script to limit the maximum number of concurrent 
+# 11. Design and develop a PHP script to limit the maximum number of concurrent 
 sessions for a user to 3. Set session expiration timeout to 5 minutes.
 
-12. Design and develop attendance systems using PHP and MySQL.
+# 12. Design and develop attendance systems using PHP and MySQL.
 a. student must be able to register himself
 b. Teacher should be able to take attendance online using check boxes, roll no 
 and name
 
-13. Design PHP login module with user registration form, login form. System should 
+# 13. Design PHP login module with user registration form, login form. System should 
 use cookies to track users. Use session handling and database MySQL for login.
 
-14. Design and develop a responsive website for an online book store using Spring 
+
+# 14. Design and develop a responsive website for an online book store using Spring 
 boot and MySQL having
 1) Home Page 2) Login Page 3) Catalog Page: 4) Registration Page: (database)
  
-15. Write a web application for registering complaints for students in college. Use 
+# 15. Write a web application for registering complaints for students in college. Use 
 PHP and MySQL for frontend and backend.
  a) create login page for student
  b) create complaint page
 c) create login page for admin
 d) list all complaints on admin login
 
-16. Develop a currency converter application using ReactJS that allows users to input 
+# 16. Develop a currency converter application using ReactJS that allows users to input 
 an amount of dollars and convert it to rupees. Take advantage of React state and event 
 handlers to manage the input and conversion calculations.
 
-17. Write a PHP program to collect waste like plastic or paper. System should accept location 
+# 17. Write a PHP program to collect waste like plastic or paper. System should accept location 
 where the waste material is present and It should direct concerned authority to collect and 
 manage the waste
-18. Write a program in PHP for a complaint management system where users can make 
+
+# 18. Write a program in PHP for a complaint management system where users can make 
 complaints about services they are getting from organizations like PMC, PMT or any 
 institution.
 
-19. Write PHP code for booking seats in airplanes and display seating arrangements in 
+# 19. Write PHP code for booking seats in airplanes and display seating arrangements in 
 airplanes.
 
-20. Write PHP code for Tic-Tac-Toe Game
+# 20. Write PHP code for Tic-Tac-Toe Game
 .
-21. Create Responsive web site for showing EDIT and DELETE student records from 
+# 21. Create Responsive web site for showing EDIT and DELETE student records from 
 database using PHP.
 
-22. Create a responsive html document with canvas tag. Write javascript code which takes 
+# 22. Create a responsive html document with canvas tag. Write javascript code which takes 
 the mouse click event for the point and draws any shape like line and rectangle.
 
-23. Write html javascript ( jQuery ) code for applying one style throughout all controls using 
+# 23. Write html javascript ( jQuery ) code for applying one style throughout all controls using 
 one of three buttons. Each button is causing separate style for the entire page
 
-24. Write java script code to accept birth date and calculate age in year month and date 
+# 24. Write java script code to accept birth date and calculate age in year month and date 
 format
 
-25. Create Responsive web site for showing Traffic signal lights. Use appropriate 
+# 25. Create Responsive web site for showing Traffic signal lights. Use appropriate 
 diagrams and glowing LEDs within HTML code.
 
-26. Develop a Spring Boot-based Order Management System that provides REST 
+# 26. Develop a Spring Boot-based Order Management System that provides REST 
 APIs for managing customer orders. The application should allow users to create, 
 view, update, and delete orders.
 Tasks:
@@ -249,7 +250,7 @@ Tasks:
 2.Create Order Entity
 3.Test REST APIs(Use Postman or REST client)
 
-27. A library wants to store and manage book records in a Node.js application. 
+# 27. A library wants to store and manage book records in a Node.js application. 
 Librarians should be able to add books and view all books available in the library.
  Tasks:
 1. Create a Book table/collection with fields such as book_id, title, author, 
@@ -258,7 +259,7 @@ and year.
 3. Retrieve book data using a Node.js API. 
 4. Display book details in the browser
 
-28. Design a React application that allows users to toggle between Light Mode and 
+# 28. Design a React application that allows users to toggle between Light Mode and 
 Dark Mode using React Hooks.
 Tasks to be Performed:
 1. Create a toggle button. 
@@ -267,7 +268,7 @@ Tasks to be Performed:
 4. Display the current theme mode. 
 5. Persist theme selection during component re-render.
 
-29. Develop a React application that displays a real-time digital clock which updates 
+# 29. Develop a React application that displays a real-time digital clock which updates 
 every second using React Hooks.
 Tasks to be Performed:
 1. Create a functional React component. 
@@ -276,7 +277,7 @@ Tasks to be Performed:
 4. Display the time in HH:MM:SS format. 
 5. Provide an option to start/stop the clock.
 
-30. Create a React application that allows users to filter products by category or 
+# 30. Create a React application that allows users to filter products by category or 
 price range using Redux to manage filter state.
 Tasks to be Performed:
 1. Store product data in Redux state. 
@@ -285,7 +286,7 @@ Tasks to be Performed:
 4. Display filtered products dynamically. 
 5. Reset filters when required.
 
-31. Build a React application that displays system notifications using Redux to 
+# 31. Build a React application that displays system notifications using Redux to 
 manage notification state.
 Tasks to be Performed:
 1. Create Redux store for notifications. 
@@ -294,7 +295,7 @@ Tasks to be Performed:
 4. Display notifications in the UI. 
 5. Allow users to dismiss notifications
 
-32. Develop a Spring Boot application where user passwords are securely stored 
+# 32. Develop a Spring Boot application where user passwords are securely stored 
 using password encryption.
 Tasks to be Performed:
 1. Configure password encoder (BCrypt). 
@@ -303,7 +304,7 @@ Tasks to be Performed:
 4. Verify password validation during login. 
 5. Display authentication results.
 
-33. Create a Spring Boot application that tracks and restricts multiple failed login 
+# 33. Create a Spring Boot application that tracks and restricts multiple failed login 
 attempts to enhance application security.
 Tasks to be Performed:
 1. Configure Spring Security authentication. 
@@ -312,7 +313,7 @@ Tasks to be Performed:
 4. Display appropriate error messages. 
 5. Allow account unlock after a specific time.
 
-34. Create a blog management REST API using Express.js where users can create, 
+# 34. Create a blog management REST API using Express.js where users can create, 
 read, update, and delete blog posts.
 Tasks to be Performed:
 1. Setup Express server. 
@@ -321,7 +322,7 @@ Tasks to be Performed:
 4. Return responses in JSON format. 
 5. Test the APIs using Postman.
 
-35.Build a Task Manager REST API using Express.js to manage daily tasks.
+# 35.Build a Task Manager REST API using Express.js to manage daily tasks.
 Tasks to be Performed:
 1. Create API routes for adding tasks. 
 2. Retrieve all tasks using GET requests. 
