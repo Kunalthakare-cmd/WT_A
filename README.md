@@ -330,3 +330,33 @@ Tasks to be Performed:
 4. Delete task when updated
 5. Return data task in JSON format
 
+
+
+
+✅ 🔹 Core Dependencies
+Spring Web
+Spring Boot DevTools
+Lombok
+✅ 🔹 Database Dependencies
+Spring Data JPA
+MySQL Driver (or PostgreSQL Driver / MongoDB Driver)
+H2 Database (optional for testing)
+✅ 🔹 Security
+Spring Security
+✅ 🔹 Validation
+Spring Boot Starter Validation
+✅ 🔹 Testing
+Spring Boot Starter Test
+✅ 🔹 Monitoring / Production
+Spring Boot Actuator
+✅ 🔹 Microservices (Optional)
+Spring Cloud
+🔥 📌 Most Used Combination (Default)
+Spring Web
+Spring Data JPA
+MySQL Driver
+Lombok
+DevTools
+Validation
+
+
